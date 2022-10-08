@@ -1,0 +1,19 @@
+.group {
+    background-color: #ff00c8;
+    font-family: "Verdana", "DeJaVu Sans", "sans-serif";
+}
+
+#one {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.cool {
+    font-size: 24px;
+}
+
+#four {
+    background-color: #00ff00;
+    font-size: 24px;
+    font-weight: bold;
+}
